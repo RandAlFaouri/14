@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAFinalizaers", "CAFinalizaers\CAFinalizaers.csproj", "{09AB9C10-6C5C-4348-B43E-8A444E9E0AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09AB9C10-6C5C-4348-B43E-8A444E9E0AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AB9C10-6C5C-4348-B43E-8A444E9E0AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AB9C10-6C5C-4348-B43E-8A444E9E0AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AB9C10-6C5C-4348-B43E-8A444E9E0AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C6E99FA-322E-407E-9D6E-6E86B6B86540}
+	EndGlobalSection
+EndGlobal
